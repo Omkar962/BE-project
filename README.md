@@ -1,9 +1,12 @@
 # BE-project
 # The-Movie-Cinema
 
-# Backend- Python
-Framework - Flask
-Frontend - HTML/CSS/JS
+Backend- Python  
+
+Framework - Flask  
+
+Frontend - HTML/CSS/JS  
+
 API- https://www.themoviedb.org/
 
 This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies.
